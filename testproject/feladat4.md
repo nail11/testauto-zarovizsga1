@@ -18,7 +18,6 @@ A cél az email validáció tesztelése:
 
 * Üres:
     * email: <üres>
-    * b: <üres>
     * Please fill out this field.
 
 Az ellenőrzésekhez __NEM__ kell teszt keretrendszert használnod (mint pl a pytest) viszont fontos, hogy `assert` összehasonlításokat használj!
